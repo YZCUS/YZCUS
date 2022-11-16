@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Zheng-Chen.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YZCUS&theme=vue-dark&show_icons=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YZCUS&theme=vue-dark&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YZCUS&theme=react&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YZCUS&theme=react)
 
 
 
