@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Zheng-Chen.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YZCUS)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YZCUS&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
