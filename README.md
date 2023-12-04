@@ -1,6 +1,6 @@
-### Hi there 👋 I am Zheng-Chen.
+## Hi there 👋 I am Zheng-Chen.
 
-# About me
+### About me
 - I am currently first year MCS student at New York University. 
 
 <!--
