@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Zheng-Chen.
 
+## About me
+- I am currently first year MCS student at New York University. 
 
 <!--
 **YZCUS/YZCUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
