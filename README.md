@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zheng-Chen Yao</h1>
+<h1 align="center">Hi 👋, I'm Allen Yao</h1>
 <h3 align="center">A passionate developer at NYC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzcus&label=Profile%20views&color=0e75b6&style=flat" alt="yzcus" /> </p>
 
 - 🌱 I’m currently learning **React, Mongodb, AWS**
 
-- 📫 How to reach me **zy2876@nyu.edu**
+- 📫 How to reach me **s87610281@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
